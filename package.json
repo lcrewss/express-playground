@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lcrewss/express-playground/issues"
   },
-  "homepage": "https://github.com/lcrewss/express-playground#readme"
+  "homepage": "https://github.com/lcrewss/express-playground#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
